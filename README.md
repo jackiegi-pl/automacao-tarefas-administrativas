@@ -68,7 +68,7 @@ Durante os testes no NotebookLM, as respostas foram solicitadas com base exclusi
 
 ---
 
-# 3. Uso do NotebookLM
+## 3. Uso do NotebookLM
 
 O NotebookLM foi utilizado como ferramenta de apoio à pesquisa.
 
@@ -86,7 +86,7 @@ Essa abordagem permitiu observar como diferentes formas de elaborar um prompt po
 
 ---
 
-# 4. Prompt Engineering e testes realizados
+## 4. Prompt Engineering e testes realizados
 
 ## Prompt 1 — Síntese inicial
 
@@ -262,7 +262,7 @@ Por isso, a validação feita pelo modelo não deve ser considerada uma comprova
 
 ---
 
-# 5. Cicatrizes e aprendizados
+## 5. Cicatrizes e aprendizados
 
 Durante os testes foram identificados alguns pontos importantes sobre o uso de inteligência artificial para pesquisa.
 
@@ -284,7 +284,7 @@ Também foi possível perceber que uma resposta bem organizada e convincente nã
 
 ---
 
-# 6. Miniguia final
+## 6. Miniguia final
 
 ## Automação de Tarefas Administrativas
 
@@ -427,7 +427,7 @@ Além disso, é importante considerar treinamento, segurança das informações,
 
 ---
 
-# 7. Glossário
+## 7. Glossário
 
 **Automação:** utilização de tecnologia para executar tarefas ou etapas de um processo com menor necessidade de intervenção manual.
 
@@ -447,7 +447,7 @@ Além disso, é importante considerar treinamento, segurança das informações,
 
 ---
 
-# 8. Prompts reutilizáveis
+## 8. Prompts reutilizáveis
 
 Os prompts abaixo podem ser utilizados em outros estudos sobre processos e automação.
 
@@ -469,7 +469,7 @@ Os prompts abaixo podem ser utilizados em outros estudos sobre processos e autom
 
 ---
 
-# 9. Conclusão
+## 9. Conclusão
 
 A automação de tarefas administrativas pode contribuir para tornar processos mais rápidos, padronizados e eficientes, principalmente quando aplicada a atividades repetitivas, baseadas em regras e com volume significativo de trabalho.
 
@@ -487,7 +487,7 @@ Ao mesmo tempo, os testes mostraram que a inteligência artificial pode apresent
 
 ---
 
-# 10. Ferramentas utilizadas
+## 10. Ferramentas utilizadas
 
 * **NotebookLM:** organização das fontes, pesquisa orientada por documentos e testes de prompts.
 * **GitHub:** organização e publicação do projeto.
@@ -495,15 +495,16 @@ Ao mesmo tempo, os testes mostraram que a inteligência artificial pode apresent
 
 ---
 
-# 11. Estrutura do projeto
+## 11. Estrutura do projeto
 
+```text
 automacao-tarefas-administrativas/
-│
 └── README.md
+```
 
 ---
 
-# 12. Sobre o projeto
+## 12. Sobre o projeto
 
 Projeto desenvolvido como parte de um desafio da **DIO**, com foco em pesquisa, curadoria de fontes, prompt engineering e utilização de inteligência artificial como ferramenta de apoio ao estudo.
 
