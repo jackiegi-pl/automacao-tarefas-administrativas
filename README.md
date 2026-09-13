@@ -24,46 +24,47 @@ Este projeto foi desenvolvido como parte de um desafio da DIO, utilizando o Note
 
 ---
 
-# 2. Curadoria das fontes
+## 2. Curadoria das Fontes
 
-Foram selecionadas fontes em texto disponíveis online, priorizando materiais relacionados à automação de processos, eficiência operacional, padronização e identificação de tarefas que podem ser automatizadas.
+Para desenvolver o estudo sobre automação de tarefas administrativas, foram selecionadas cinco fontes abertas em texto, relacionadas à automação de processos, eficiência operacional, padronização de atividades e identificação de tarefas que podem ser automatizadas.
 
-As fontes foram inseridas no NotebookLM e utilizadas como base para os questionamentos realizados durante o projeto.
+As fontes foram utilizadas como base para as consultas realizadas no NotebookLM.
 
-### Fonte 1 — Thomson Reuters
+### 1. Thomson Reuters — Automação de processos administrativos
 
-**Tema:** Automação de processos administrativos
+Material utilizado para compreender conceitos de automação, benefícios, riscos e a importância de analisar e otimizar um processo antes de escolher uma tecnologia.
 
-A fonte foi utilizada para compreender:
+Link: https://www.thomsonreuters.com.br/pt/conteudo/automacao-de-processos-administrativos.html
 
-* conceito e objetivos da automação;
-* benefícios da automação;
-* riscos de automatizar processos sem uma análise prévia;
-* importância de mapear e otimizar o processo antes de escolher uma tecnologia;
-* identificação de tarefas repetitivas e operacionais;
-* importância de indicadores e acompanhamento dos resultados.
+### 2. oHub Base Gestão — Automação de tarefas administrativas
 
-### Fonte 2 — oHub Base Gestão
+Material utilizado principalmente para identificar características de tarefas que podem ser boas candidatas à automação, como repetitividade, frequência, regras claras e volume de trabalho.
 
-**Tema:** Automação de tarefas administrativas
+Link: https://base.ohub.com.br/gestao/documental/rotinas-administrativas/artigos/automacao-de-tarefas-administrativas
 
-A fonte foi utilizada principalmente para identificar características de tarefas que podem ser candidatas à automação, como:
+### 3. Jornal Síndico — Tecnologia e automação nos processos de administração
 
-* frequência;
-* repetitividade;
-* existência de regras claras;
-* volume de trabalho;
-* tempo gasto na execução;
-* necessidade ou não de julgamento humano;
-* possibilidade de padronização.
+Fonte complementar utilizada para compreender a relação entre tecnologia, automação e eficiência em processos administrativos.
 
-### Fonte 3 — Jornal Síndico
+Link: https://jornalsindico.com.br/noticias/tecnologia-e-automacao-nos-processos-de-administracao-revolucao-e-eficiencia
 
-**Tema:** Tecnologia e automação nos processos de administração
+### 4. Substack — IA na automação de tarefas: eficiência
 
-Foi utilizada como fonte complementar para observar a aplicação da tecnologia e da automação em processos administrativos e sua relação com eficiência.
+Fonte complementar utilizada para ampliar a análise sobre o uso de inteligência artificial na automação de tarefas.
 
-> **Observação:** as fontes foram utilizadas como base para as consultas realizadas no NotebookLM. Durante a análise, as respostas também foram confrontadas com as informações apresentadas nas próprias fontes, principalmente quando surgiram critérios muito específicos ou conclusões mais categóricas.
+Link: https://marshalmoricavalheiro.substack.com/p/ia-na-automacao-de-tarefas-eficiencia
+
+### 5. Sebrae Paraná — Automatização de processos: rumo à eficiência e inovação
+
+Fonte institucional utilizada como referência complementar sobre automatização de processos, produtividade, eficiência e inovação.
+
+Link: https://www.sebraepr.com.br/comunidade/artigo/automatizacao-de-processos-rumo-a-eficiencia-e-inovacao
+
+### Critério de seleção
+
+As fontes foram escolhidas por apresentarem conteúdos relacionados diretamente ao tema estudado e por estarem disponíveis em formato aberto na internet.
+
+Durante os testes no NotebookLM, as respostas foram solicitadas com base exclusivamente nas fontes selecionadas. Quando surgiram critérios muito específicos, números ou conclusões apresentadas de forma categórica, foram realizados novos testes para verificar como essas informações estavam sendo interpretadas pela ferramenta. Esse processo ajudou a identificar limitações e aperfeiçoar os prompts utilizados.
 
 ---
 
