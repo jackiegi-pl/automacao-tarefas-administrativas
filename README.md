@@ -497,14 +497,9 @@ Ao mesmo tempo, os testes mostraram que a inteligência artificial pode apresent
 
 # 11. Estrutura do projeto
 
-```text
 automacao-tarefas-administrativas/
 │
-├── README.md
-│
-└── fontes/
-    └── referências utilizadas no estudo
-```
+└── README.md
 
 ---
 
